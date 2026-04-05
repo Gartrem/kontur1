@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Allow: /
+Crawl-delay: 2
+
+# После публикации замените URL ниже на ваш публичный адрес GitHub Pages
+# Пример: https://username.github.io/repo-name/sitemap.xml
+Sitemap: https://username.github.io/repo-name/sitemap.xml
